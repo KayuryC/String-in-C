@@ -5,7 +5,7 @@
 void stringM() {
 	//Declarando variaveis
 	int tamanho;
-	char string[130];
+	char string[120];
 
 	//Le string
 	scanf("%[^\n]", string);
