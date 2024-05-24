@@ -5,7 +5,7 @@
 void stringM() {
 	//Declarando variaveis
 	int tamanho;
-	char string[30];
+	char string[130];
 
 	//Le string
 	scanf("%[^\n]", string);
@@ -21,8 +21,6 @@ void stringM() {
 	system("cls");
 }
 int main() {
-	while(1) {
 		printf("Digite uma frase ou uma palavra: ");
-		stringM();
-	}
+		stringM();	
 }
