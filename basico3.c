@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <string.h>
-
 //Função
 void string_invert() {
 	//Declarando variaveis
